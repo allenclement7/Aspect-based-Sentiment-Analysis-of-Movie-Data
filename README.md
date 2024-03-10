@@ -2,13 +2,6 @@
 
 ## Project-3 Implementation
 
-### Group 
-
-Shreya Adap, sadap1@binghamton.edu
-Vrushali More, vmore@binghamton.edu
-Tanuj Patil, tpatil1@binghamton.edu
-Allen Clement, aclemen4@binghamton.edu
-
 ### Introduction
 
 Aspect-based Sentiment Analysis of movie-related discussions involves analyzing user comments and posts across various social media platforms. People often discuss their movie experiences and opinions online and these discussions can be used to analyze user's sentiments related to various aspects in a movie like ratings, run-time, popularity etc. This project aims to extract specific aspects of movies, such as plot, cast, and production companies, from user-generated content in real-time. By classifying the sentiment associated with each aspect, the project provides insights into which aspects of movies are particularly liked or disliked by users. We perform this analysis on data collected from various movie related subreddits and The Movie Database (TMDB) to enrich our analysis further. This analysis can be valuable for understanding audience sentiments, improving movie quality, and tailoring marketing strategies.
